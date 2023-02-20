@@ -1,0 +1,1 @@
+Projeto feito em Python com a função da análisar o valor do Dólar e da IboVespa durante um período de 1 ano, 1 mês e 1 dia. Após a análise será feito um gráfico com as variações de valores e sera enviado automaticamente para o email escolhido.
